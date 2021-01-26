@@ -17,3 +17,6 @@ https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-ele
 bluecarrot16, Daniel Eddeland, Joshua Taylor and Richard Kettering for
 https://opengameart.org/content/lpc-crops
 
+Sharm and Curt for
+https://opengameart.org/content/lpc-animated-water-and-fire
+
